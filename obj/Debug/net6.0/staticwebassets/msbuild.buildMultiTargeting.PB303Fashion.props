@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PB303Fashion.props" />
+</Project>
